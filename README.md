@@ -10,7 +10,7 @@ A 23-year-old cybersecurity enthusiast studying at école 2600 in France — a s
 - 📝 I write in-depth, long-form articles on my github blog [LeTeazer](https://leteazer.github.io/).
 
 ## My Articles
-- [Whoami](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- [Whoami](https://leteazer.github.io/posts/whoami/)
 - [CVE-2024-55187](https://leteazer.github.io/posts/cve-2024-55187/)
 
 ## 📬 Get in Touch
