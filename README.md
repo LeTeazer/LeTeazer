@@ -7,7 +7,7 @@ A 23-year-old cybersecurity enthusiast studying at école 2600 in France — a s
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Cybersecurity at Ecole 2600.
-- 📝 I write in-depth, long-form articles on my github blog [LeTeazer](https://leteazer.github.com/).
+- 📝 I write in-depth, long-form articles on my github blog [LeTeazer](https://leteazer.github.io/).
 
 ## My Articles
 - [Whoami](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
